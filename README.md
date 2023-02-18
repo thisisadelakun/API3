@@ -10,7 +10,7 @@
 - [Acknowledgments](#acknowledgments)
 
 #overview
- - This is a project built with Python and Django as the framework, a team of 5 icluding me with our Tutor, a senior dev built this API.
+ - This is a project built with Python and Django as the framework, a team of 10 icluding me with our Tutor, a senior dev built this API.
  - The aim is to create an API called TASK LIST, where a task can be created, updated, check the details and can be deleted. 
 
 #our-proces
